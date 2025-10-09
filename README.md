@@ -13,14 +13,14 @@
       sistemas, redes y cloud computing para construir entornos de datos y modelos más confiables, reproducibles y escalables.
     </p>
 
-    <p>
+  <p>
       Mi enfoque combina la disciplina y precisión del mundo de las redes con la innovación de la ingeniería de machine learning.
       Disfruto diseñar entornos sólidos y automatizados, donde la infraestructura se convierte en la base del aprendizaje automático.
     </p>
 
-    <br/>
+  <br/>
 
-    <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Habilidades principales</h2>
+  <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Habilidades principales</h2>
     <ul style="list-style:none; padding-left:0; columns:2;">
       <li><strong>Infraestructura y Redes:</strong> Cisco, LAN/WAN, Virtualización, Linux Server</li>
       <li><strong>DevOps / MLOps:</strong> Docker, MLflow, FastAPI, GitHub Actions, CI/CD</li>
@@ -30,10 +30,9 @@
       <li><strong>Gestión IT:</strong> JIRA, ServiceNow, Confluence</li>
     </ul>
 
-    <br/>
+  <br/>
 
-    <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Proyectos personales</h2>
-
+  <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Proyectos personales</h2>
     <div style="background-color:#161b22; padding:20px; border-radius:10px; margin-bottom:20px;">
       <h3 style="color:#58a6ff; margin-top:0;">Caffesory</h3>
       <p style="margin:0;">
@@ -41,7 +40,6 @@
         Combina IA, visión computacional y comunidad de usuarios. Incluye un sistema de recomendación basado en embeddings y un backend contenedorizado con Docker.
       </p>
     </div>
-
     <div style="background-color:#161b22; padding:20px; border-radius:10px;">
       <h3 style="color:#58a6ff; margin-top:0;">BlendLab</h3>
       <p style="margin:0;">
@@ -49,9 +47,7 @@
         Incluye pipelines MLOps con MLflow y despliegues reproducibles en contenedores.
       </p>
     </div>
-
     <br/>
-
     <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">En qué estoy trabajando</h2>
     <p>
       Me encuentro profundizando en:
@@ -62,16 +58,13 @@
         <li>• Seguridad y despliegue de modelos IA en entornos productivos.</li>
       </ul>
     </p>
-
     <br/>
-
     <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Contacto</h2>
     <p>
       <strong>GitHub:</strong> <a href="https://github.com/nicocanales" style="color:#58a6ff; text-decoration:none;">github.com/nicocanales</a><br/>
       <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nicolasecv" style="color:#58a6ff; text-decoration:none;">linkedin.com/in/nicolasecv</a><br/>
       <strong>Email:</strong> <a href="mailto:nicolas.ecv@gmail.com" style="color:#58a6ff; text-decoration:none;">nicolas.ecv@gmail.com</a>
     </p>
-
     <br/>
     <p style="color:#8b949e; font-size:0.9em; text-align:center; margin-top:40px;">
       “La infraestructura es el cimiento. La automatización es el puente. La inteligencia artificial es el siguiente paso.”
