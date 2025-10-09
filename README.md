@@ -36,22 +36,32 @@
 
   <br/>
 
-  <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Proyectos personales</h2>
-    <div style="background-color:#161b22; padding:20px; border-radius:10px; margin-bottom:20px;">
-      <h3 style="color:#58a6ff; margin-top:0;">Caffesory</h3>
-      <p style="margin:0;">
-        Plataforma tipo “Vivino para café de especialidad” desarrollada con <strong>FastAPI</strong> y <strong>React Native</strong>.
-        Combina IA, visión computacional y comunidad de usuarios. Incluye un sistema de recomendación basado en embeddings y un backend contenedorizado con Docker.
-      </p>
-    </div>
-    <div style="background-color:#161b22; padding:20px; border-radius:10px;">
-      <h3 style="color:#58a6ff; margin-top:0;">BlendLab</h3>
-      <p style="margin:0;">
-        Laboratorio sensorial IA que permite experimentar con combinaciones de sabores de café mediante embeddings y modelos de lenguaje.
-        Incluye pipelines MLOps con MLflow y despliegues reproducibles en contenedores.
-      </p>
-    </div>
-    <br/>
+  <h2 style="color:#58a6ff;">Proyectos Destacados</h2>
+
+<table style="width:100%; border-collapse:collapse; max-width:850px; margin:auto; background-color:#161b22; border:1px solid #30363d; border-radius:10px;">
+  <tr style="background-color:#21262d; color:#58a6ff;">
+    <th style="padding:10px; text-align:left;">Proyecto</th>
+    <th style="padding:10px; text-align:left;">Descripción</th>
+    <th style="padding:10px; text-align:left;">Stack</th>
+  </tr>
+  <tr>
+    <td style="padding:10px;"><strong>Caffesory</strong></td>
+    <td style="padding:10px;">App tipo Vivino para café de especialidad: reconocimiento visual, comunidad y recomendaciones basadas en IA.</td>
+    <td style="padding:10px;">FastAPI · React Native · Firebase · Docker</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;"><strong>BlendLab</strong></td>
+    <td style="padding:10px;">Módulo de creación de blends sensoriales IA con Rueda de Sabores SCA y visualización interactiva.</td>
+    <td style="padding:10px;">Python · Streamlit · MLflow · OpenAI</td>
+  </tr>
+  <tr>
+    <td style="padding:10px;"><strong>Data Coffee Vision</strong></td>
+    <td style="padding:10px;">Sistema de clasificación de empaques de café usando CLIP + FAISS y dataset propio de imágenes.</td>
+    <td style="padding:10px;">PyTorch · FastAPI · OpenCV</td>
+  </tr>
+</table>
+
+<br/>
     <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">En qué estoy trabajando</h2>
     <p>
       Me encuentro profundizando en:
@@ -63,15 +73,17 @@
       </ul>
     </p>
     <br/>
-    <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Contacto</h2>
-    <p>
-      <strong>GitHub:</strong> <a href="https://github.com/nicocanales" style="color:#58a6ff; text-decoration:none;">github.com/nicocanales</a><br/>
-      <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/nicolasecv" style="color:#58a6ff; text-decoration:none;">linkedin.com/in/nicolasecv</a><br/>
-      <strong>Email:</strong> <a href="mailto:nicolas.ecv@gmail.com" style="color:#58a6ff; text-decoration:none;">nicolas.ecv@gmail.com</a>
-    </p>
-    <br/>
+    <h2 style="color:#58a6ff;">Conecta conmigo</h2>
+
+<p align="center">
+  <a href="https://github.com/nicocanales" target="_blank" style="color:#58a6ff; text-decoration:none; margin:10px;">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nicocanales" target="_blank" style="color:#58a6ff; text-decoration:none; margin:10px;">LinkedIn</a> •
+  <a href="mailto:nicolas.ecv@gmail.com" style="color:#58a6ff; text-decoration:none; margin:10px;">Email</a>
+</p>
+
+<br/>
     <p style="color:#8b949e; font-size:0.9em; text-align:center; margin-top:40px;">
-      “La infraestructura es el cimiento. La automatización es el puente. La inteligencia artificial es el siguiente paso.”
+      “La infraestructura es el cimiento. La automatización es el puente. La inteligencia artificial es el siguiente paso. © 2025 Nico Canales”
     </p>
   </div>
 </div>
