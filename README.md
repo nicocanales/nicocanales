@@ -78,13 +78,3 @@
     </p>
   </div>
 </div>
-
-
-<br/>
-
-<p style="font-size:0.9em; color:#8b949e;">
-Hecho con dedicación en Chile · © 2025 Nico Canales
-</p>
-
-</div>
-
