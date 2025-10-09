@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#0d1117; color:#c9d1d9; padding:40px; border-radius:20px;">
 
-<h1 style="color:#58a6ff; font-size:3em; font-weight:700;">Nico Canales</h1>
+<h1 style="color:#58a6ff; font-size:3em; font-weight:700;">Nicolás Canales</h1>
 <h3 style="color:#8b949e;">Ingeniero · Emprendedor · Visionario en IA y Desarrollo Web</h3>
 
 <br/>
