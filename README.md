@@ -4,7 +4,11 @@
     <h1 style="color:#58a6ff; font-size:2.8em; margin-bottom:0;">Nicolás Canales</h1>
     <h3 style="color:#8b949e; font-weight:400; margin-top:5px;">Ingeniero en Telecomunicaciones y Redes · MLOps Trainee</h3>
   </div>
-
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,typescript,nextjs,tailwind,docker,git,github,vscode,firebase" />
+</p>
+<br/>
   <div style="max-width:900px; margin:auto;">
     <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">Sobre mí</h2>
     <p>
