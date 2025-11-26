@@ -36,31 +36,6 @@
 
   <br/>
 
-  <h2 style="color:#58a6ff;">Proyectos Destacados</h2>
-
-<table style="width:100%; border-collapse:collapse; max-width:850px; margin:auto; background-color:#161b22; border:1px solid #30363d; border-radius:10px;">
-  <tr style="background-color:#21262d; color:#58a6ff;">
-    <th style="padding:10px; text-align:left;">Proyecto</th>
-    <th style="padding:10px; text-align:left;">Descripción</th>
-    <th style="padding:10px; text-align:left;">Stack</th>
-  </tr>
-  <tr>
-    <td style="padding:10px;"><strong>Caffesory</strong></td>
-    <td style="padding:10px;">App tipo Vivino para café de especialidad: reconocimiento visual, comunidad y recomendaciones basadas en IA.</td>
-    <td style="padding:10px;">FastAPI · React Native · Firebase · Docker</td>
-  </tr>
-  <tr>
-    <td style="padding:10px;"><strong>BlendLab</strong></td>
-    <td style="padding:10px;">Módulo de creación de blends sensoriales IA con Rueda de Sabores SCA y visualización interactiva.</td>
-    <td style="padding:10px;">Python · Streamlit · MLflow · OpenAI</td>
-  </tr>
-  <tr>
-    <td style="padding:10px;"><strong>Data Coffee Vision</strong></td>
-    <td style="padding:10px;">Sistema de clasificación de empaques de café usando CLIP + FAISS y dataset propio de imágenes.</td>
-    <td style="padding:10px;">PyTorch · FastAPI · OpenCV</td>
-  </tr>
-</table>
-
 <br/>
     <h2 style="color:#58a6ff; border-bottom:1px solid #30363d; padding-bottom:5px;">En qué estoy trabajando</h2>
     <p>
@@ -69,7 +44,8 @@
         <li>• Integración CI/CD para modelos de machine learning.</li>
         <li>• Monitoreo y trazabilidad de experimentos con MLflow.</li>
         <li>• Optimización de pipelines de datos en entornos híbridos (local + cloud).</li>
-        <li>• Seguridad y despliegue de modelos IA en entornos productivos.</li>
+        <li>• Seguridad y despliegue de modelos IA en entornos productivos.</li>  
+        <li>• Bootcamp Especializacion en Ciencia de datos - En Curso.</li>
       </ul>
     </p>
     <br/>
